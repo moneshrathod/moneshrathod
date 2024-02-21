@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monesh Rathod</h1>
-<h3 align="center">An aspiring Embedded Systems Design and IoT Enthusiast from India, driven by passion.</h3>
+<h3 align="center">An aspiring Embedded Systems Designer and IoT Enthusiast from India, driven by passion.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshrathod&label=Profile%20views&color=0e75b6&style=flat" alt="moneshrathod" /> </p>
